@@ -3,10 +3,10 @@
     justify-content: center;
     background-color: rgb(51, 94, 79);
     margin: 0;
-    padding: 100PX 100PX;
+    padding: 40px 40px;
 }
 .cabeçalho-título1{
-    font-size: 85PX;
+    font-size: 70PX;
     color: rgb(221, 34, 34);
 }
 .cabeçalho-título2 {
@@ -18,4 +18,6 @@
 }
 .cabeçalho-imagem{
     width: 120px;
+    margin: 0;
+    padding: 40px 40 px;
 }
