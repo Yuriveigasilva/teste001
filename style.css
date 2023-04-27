@@ -24,3 +24,9 @@
 .Letras com café{
     background-color: blue;
 }
+.Letras com café-parágrafo{
+    background-color: blueviolet;
+    margin: :0
+    padding 20%;
+    color: :-moz-only-whitespace
+}
