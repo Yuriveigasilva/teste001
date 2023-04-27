@@ -5,6 +5,9 @@
     margin: 0;
     padding: 40px 40px;
 }
+.conteúdo {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .cabeçalho-título1{
     font-size: 70PX;
     color: rgb(221, 34, 34);
