@@ -15,7 +15,14 @@
 .cabeçalho-título2 {
     color: rgb(236, 223, 223);
 } 
+.cabeçalho-título1 {
+    text-align: center;
+    margin: 0;
+    padding: 2%; 2%;
 
+
+
+}
 .cabeçalho-lista{
     color: white;
 }
