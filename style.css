@@ -6,4 +6,11 @@
 }
 .cabeçalho-título2 {
     color: rgb(236, 223, 223);
+} 
+
+.cabeçalho-lista{
+    color: white;
+}
+.cabeçalho-imagem{
+    width: 75px;
 }
