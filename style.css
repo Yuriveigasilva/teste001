@@ -2,6 +2,8 @@
     display: flex;
     justify-content: center;
     background-color: rgb(51, 94, 79);
+    margin: 0;
+    padding: 300PX 300PX;
 }
 .cabeçalho-título1{
     font-size: 85PX;
