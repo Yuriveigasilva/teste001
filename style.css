@@ -1,4 +1,5 @@
 .cabeçalho {
+    display: flex;
     background-color: rgb(51, 94, 79);
 }
 .cabeçalho-título1{
