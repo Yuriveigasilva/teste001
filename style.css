@@ -40,3 +40,64 @@
     padding 10%; 2%;
     
 }
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.conteúdo {
+    font-family:sans-serif;
+}
+
+.cabeçalho {
+    display: flex;
+    justify-content:space-around;
+    background-color: #3C486B;
+    margin: 0%;
+    padding: 5%, 5%;
+    
+}
+
+.cabeçalho-imagem {
+    margin: 0;
+    padding: 2% 2%;
+}
+
+.cabeçalho-lista-elemento1 {
+    display: inline-block;
+}
+
+.cabeçalho-lista-elemento2 {
+    display: inline-block;
+}
+
+.cabeçalho {
+    color: white;
+}
+
+.cabeçalho-imagem {
+    width: 210px;
+    height: 120px;
+    margin: 0%;
+    padding: 2%, 2%;
+}
+
+.cabeçalho-título1 {
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+    padding: 2% 15%;
+}
+
+.Escola-de-tecnologia {
+    background-color: #F9D949;
+    margin: 0;
+    padding: 20% 2%;
+    color: black;
+}
+
+.Equipe {
+    background-color: #F45050;
+    margin: 0;
+    padding: 10% 2%;
+}
