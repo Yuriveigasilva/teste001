@@ -1,7 +1,7 @@
 .cabeçalho {
     display: flex;
     justify-content: center;
-    background-color: rgb(51, 94, 79);
+    background-color: rgb(209, 102, 161);
     margin: 0;
     padding: 40px 40px;
 }
@@ -10,7 +10,7 @@
 }
 .cabeçalho-título1{
     font-size: 70PX;
-    color: rgb(221, 34, 34);
+    color: rgb(231, 77, 142);
 }
 .cabeçalho-título2 {
     color: rgb(236, 223, 223);
@@ -18,13 +18,13 @@
 .cabeçalho-título1 {
     text-align: center;
     margin: 0;
-    padding: 2%; 2%;
+    padding: 2%; 2%; 
 
 
 
 }
 .cabeçalho-lista{
-    color: white;
+    color: rgb(32, 31, 31);
 }
 .cabeçalho-imagem{
     width: 120px;
